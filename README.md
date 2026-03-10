@@ -1,6 +1,7 @@
 # Sales-Pipeline-Tracker
 ## project Introduction
 This project helps students understand how business track potential customer from first contact to closed sales.
+
 Students will use Excel to organise sales opportunities, monitor deal stages, and calculate expected revenue.
 
 ### Skills You Will Obtain After Completing This Project
